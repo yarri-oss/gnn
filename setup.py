@@ -193,7 +193,6 @@ setup(
         'numpy',
         'protobuf>=3.17',
         'pyarrow',
-#        'pygraphviz',
         'scipy',
         'six',
         'tf-nightly-cpu>=2.7.0.dev20210908',
